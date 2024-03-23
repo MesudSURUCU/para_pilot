@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206768939725",
+    "project_id": "para-pilot",
+    "storage_bucket": "para-pilot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206768939725:android:2255032ba87cb6b1053f84",
+        "android_client_info": {
+          "package_name": "com.example.para_pilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCom-oCo4g5Bm-BvuEMW7BlE7TtgnVWQqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
